@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belajar Activity dan Intent</string>
+    <string name="telepon">CALL</string>
+    <string name="buka_browser">BROWSER</string>
+    <string name="hai_semua_ini_project_pertamaku">Hai Semua, Ini Project Pertamaku</string>
+    <string name="alamat">ALAMAT</string>
+    <string name="alamatku_adalah">Alamatku_adalah</string>
+</resources>
